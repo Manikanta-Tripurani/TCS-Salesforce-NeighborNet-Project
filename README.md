@@ -44,6 +44,6 @@ Phase #	Phase Name	Status
 09	Reporting, Dashboards & Security Review	⏳ Pending
 10	Final Presentation & Demo Day	⏳ Pending
 About the Author
-Name: [Your Name]
+Name: Manikanta.Tripurani
 Program: TCS Last Mile SmartBridge
-Batch: [Your Batch Number]
+Batch: 4
